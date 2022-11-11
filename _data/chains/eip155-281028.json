@@ -1,0 +1,15 @@
+{
+  "name": "SUI Testnet",
+  "chain": "SUI",
+  "rpc": ["https://rpc.salmonscan.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "SUI Testnet",
+    "symbol": "SUI",
+    "decimals": 18
+  },
+  "infoURL": "https://testnet.salmonscan.com",
+  "shortName": "sui",
+  "chainId": 281028,
+  "networkId": 281028
+}
